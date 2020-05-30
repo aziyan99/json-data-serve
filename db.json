@@ -3,7 +3,7 @@
 		{			
 			"id":1,
 			"nama_negara":"Afganistan",
-			"bendera":"https://github.com/aziyan99/json-data-serve/blob/master/kemenlu/img/af.png",
+			"bendera":"https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/af.png",
 			"in":{
 				"ambassador":"H.E. Mayjen TNI (Purn) Arief Rahman",
 				"alamat":"Malalai Watt, Shah-re-Naw, Ministry of Interior Stret, Kabul, Afghanistan PO Box 532",
@@ -24,7 +24,7 @@
 		{			
 			"id":2,
 			"nama_negara":"Afganistan",
-			"bendera":"https://github.com/aziyan99/json-data-serve/blob/master/kemenlu/img/af.png",
+			"bendera":"https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/af.png",
 			"in":{
 				"ambassador":"H.E. Mayjen TNI (Purn) Arief Rahman",
 				"alamat":"Malalai Watt, Shah-re-Naw, Ministry of Interior Stret, Kabul, Afghanistan PO Box 532",
