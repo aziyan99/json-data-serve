@@ -1,23 +1,24 @@
-[
-	{
-		
-		"id":1,
-		"nama_negara":"Afganistan",
-		"in":{
-			"ambassador":"H.E. Mayjen TNI (Purn) Arief Rahman",
-			"alamat":"Malalai Watt, Shah-re-Naw, Ministry of Interior Stret, Kabul, Afghanistan PO Box 532",
-			"no_hp":"(93-20) 220-1066",
-			"fax":"(93-20) 220-1735",
-			"email":"kbrikabul@neda.af, kabul.kbri@kemlu.go.id",
-			"website":"https://www.kemlu.go.id/kabul/id/"
-		},
-		"out":{
-			"ambassador":"H.E. Faizullah Zaki",
-			"alamat":"Jl. Dr. Kusuma Atmaja SH No. 15, Menteng, Jakarta Pusat ​​10310, Indonesia (PO.BOX 1100 JKP 10011)",
-			"no_hp":"(62-21) 314-3169",
-			"fax":"(62-21) 3193-5390",
-			"email":"afghanembassy_indo@yahoo.com​",
-			"website":""	
+{
+	"kemenlu":[
+		{			
+			"id":1,
+			"nama_negara":"Afganistan",
+			"in":{
+				"ambassador":"H.E. Mayjen TNI (Purn) Arief Rahman",
+				"alamat":"Malalai Watt, Shah-re-Naw, Ministry of Interior Stret, Kabul, Afghanistan PO Box 532",
+				"no_hp":"(93-20) 220-1066",
+				"fax":"(93-20) 220-1735",
+				"email":"kbrikabul@neda.af, kabul.kbri@kemlu.go.id",
+				"website":"https://www.kemlu.go.id/kabul/id/"
+			},
+			"out":{
+				"ambassador":"H.E. Faizullah Zaki",
+				"alamat":"Jl. Dr. Kusuma Atmaja SH No. 15, Menteng, Jakarta Pusat ​​10310, Indonesia (PO.BOX 1100 JKP 10011)",
+				"no_hp":"(62-21) 314-3169",
+				"fax":"(62-21) 3193-5390",
+				"email":"afghanembassy_indo@yahoo.com​",
+				"website":""	
+			}
 		}
-	}
-]
+	]
+}
