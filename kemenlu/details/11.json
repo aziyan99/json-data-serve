@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 11,
+            "namaNegara": "Autralia",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/au.png",
+            "ambassador": "H.E. Drs. Yohanes Kristiarto Soeryo Legowo",
+            "alamat": "8, Darwin Avenue, Yarralumla A.C.T. 2600, Canberra, Australia",
+            "noTelp": "(61-2) 6250-8600 ",
+            "fax": "(61-2) 6273-6017, 6273-3545",
+            "email": "canberra.kbri@kemlu.go.id, indonemb@kbri-canberra.org.au",
+            "website": "https://www.kemlu.go.id/canberra/id/​"
+        }
+    ]
+}

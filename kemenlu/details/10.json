@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 10,
+            "namaNegara": "Armenia",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/am.png",
+            "ambassador": "Prof. Dr. Yuddi Chrisnandi, M.E.",
+            "alamat": "Otto Shmidta 8, 04107, Kyiv, Ukraine",
+            "noTelp": "(380-44) 206-5446, 206-5447, 206-5448, 206-5490, 206-5491, 211-7633",
+            "fax": "(380-44) 206-5440, 206-5497",
+            "email": "kbri@indo.ru.kiev.ua,  indonesia@kbri.kiev.ua, kyiv.kbri@kemlu.go.id",
+            "website": "https://www.kemlu.go.id/kyiv/id/"
+        }
+    ]
+}

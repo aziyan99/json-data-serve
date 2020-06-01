@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 3,
+            "namaNegara": "Albania",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/al.png",
+            "ambassador": "H.E. Sri Astari Rasjid",
+            "alamat": "5, Yozef Valdhard Str. (53, Simeonovsko Shosse Residence No. 4), 1700 Sofia, Republic of Bulgaria",
+            "noTelp": "(359-2) 962-5240, 962-6170, 683-220",
+            "fax": "(359-2) 962-4418, 962-5842",
+            "email": "kbrisofia@indonesia.bg",
+            "website": "https://kemlu.go.id/sofia/id"
+        }
+    ]
+}

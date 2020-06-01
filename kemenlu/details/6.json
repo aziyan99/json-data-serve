@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 6,
+            "namaNegara": "Andorra",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/ad.png",
+            "ambassador": "Letjen (Purn) Hotman Garadja Pandjaitan",
+            "alamat": "47-49 rue Cortambert, 75116 Paris, France",
+            "noTelp": "(33-1) 4503-0760",
+            "fax": "(33-1) 4504-5032, 4072-7063",
+            "email": "komparis@online.fr, paris.kbri@kemlu.go.id",
+            "website": "https://www.kemlu.go.id/paris/id"
+        }
+    ]
+}

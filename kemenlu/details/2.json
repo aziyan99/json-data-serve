@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 2,
+            "namaNegara": "Afrika Selatan",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/za.png",
+            "ambassador": "H.E. Mr. Salman Al Farisi",
+            "alamat": "949 Schoeman Street, Arcadia, Pretoria, (P.O.BOX 13155 Hatfield 0028), Republic of South Africa",
+            "noTelp": "(27-12) 342-3350 to 2",
+            "fax": "(27-12) 342-3369",
+            "email": "pretoria.kbri@kemlu.go.id, info@indonesia-pretoria.org.za",
+            "website": "https://www.kemlu.go.id/pretoria/id/"
+        }
+    ]
+}

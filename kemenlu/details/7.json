@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 7,
+            "namaNegara": "Angola",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/ao.png",
+            "ambassador": "Eddy Basuki",
+            "alamat": "103, Nelson Mandela Avenue, Windhoek, Namibia  (P.O.BOX 20691 Whk)",
+            "noTelp": "(264-61) 285-1000 ",
+            "fax": "(264-61) 285-1231",
+            "email": "kbriwindhoek@afro-indonesia.org, kbri.iafrica.com.na, ​windhoek.kbri@kemlu.go.id",
+            "website": "https://www.kemlu.go.id/windhoek/id/"
+        }
+    ]
+}

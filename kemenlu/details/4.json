@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 4,
+            "namaNegara": "Aljazair",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/dz.png",
+            "ambassador": "H. E. Mr. Drs. Hj. Safira Machrusah, M. A. (AS)",
+            "alamat": "17, Rue  Chemin Abdelkadir Gadouch, Hydra, B.P. 62 El Mourodia - Algerie.",
+            "noTelp": "(213-21) 694-915, 694-921, 927-248",
+            "fax": "(213-21) 694-910, 927-289",
+            "email": "kbrialger@indonesia-dz.org, alger.kbri@kemlu.go.id",
+            "website": "https://www.kemlu.go.id/algiers/id/"
+        }
+    ]
+}

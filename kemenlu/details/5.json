@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 5,
+            "namaNegara": "Amerika Serikat",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/us.png",
+            "ambassador": "H.E. Mr. Mahendra Siregar",
+            "alamat": "2020 Massachusetts Avenue, N.W. Washington D.C. 20036, United States of America",
+            "noTelp": "(1-202) 775-5200",
+            "fax": "(1-202) 775-5365",
+            "email": "washington.kbri@kemlu.go.id, informasi@embassyofindonesia.org, komwsh@embassyofindonesia.org",
+            "website": "http://www.embassyofindonesia.org, https://www.kemlu.go.id/washington/id"
+        }
+    ]
+}

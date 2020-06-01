@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 12,
+            "namaNegara": "Austria",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/at.png",
+            "ambassador": "H.E. Dr. Darmansjah Djumala, MA",
+            "alamat": "Gustav Tschermakgasse 5-7, A-1180, Wien, Austria",
+            "noTelp": "(43-1) 47-623",
+            "fax": "(43-1) 479-0557",
+            "email": "wina.kbri@kemlu.go.id, unitkom@kbriwina.at",
+            "website": " https://www.kemlu.go.id/vienna/id/, http://www.kbriwina.at"
+        }
+    ]
+}

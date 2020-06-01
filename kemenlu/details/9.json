@@ -1,0 +1,16 @@
+{
+    "status": true,
+    "result": [
+        {
+            "id": 9,
+            "namaNegara": "Argentina",
+            "bendera": "https://raw.githubusercontent.com/aziyan99/json-data-serve/master/kemenlu/img/ar.png",
+            "ambassador": "H.E. Mrs. Dra. Niniek Kun Naryatie",
+            "alamat": "Mariscal Ramon Castila 2901, 1425 - Capital Federal Buenos Aires, Argentina",
+            "noTelp": "(54-11) 4807-2211, 4807-2956, 4807-3324",
+            "fax": "(54-11) 4802-4448",
+            "email": "buenosaires.kbri@kemlu.go.id, emindo@tournet.com.ar, emindo@indonesianembassy.org.ar",
+            "website": "https://www.kemlu.go.id/buenosaires/id/"
+        }
+    ]
+}
